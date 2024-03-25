@@ -11,4 +11,3 @@ RUN apt-get -y install default-jre
 
 WORKDIR /user/app
 
-COPY hello_world.py ./
